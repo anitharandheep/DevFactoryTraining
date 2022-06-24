@@ -1,0 +1,12 @@
+.name{
+    display: flex;
+    flex-direction: row;
+}
+.date{
+    display: flex;
+    flex-direction: row;
+}
+.religion{
+    display: flex;
+    flex-direction: row;
+}
